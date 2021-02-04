@@ -1,5 +1,5 @@
 1)To float right a button correct repionsive way 
-              <div fxLayout="row"  style="justify-content: flex-end" >
+                          <div fxLayout="row"  fxFlex="74%" style="justify-content: flex-end">
               <button   routerLink="createDueDateException" mat-raised-button color="primary" >Create Due Date  Days Exception</button>
               </div>
               
